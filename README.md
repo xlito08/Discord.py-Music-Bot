@@ -1,3 +1,7 @@
+<img width="612" height="892" alt="image" src="https://github.com/user-attachments/assets/7d748fad-eb0f-49b8-b731-90240478bfdd" />
+<img width="445" height="381" alt="image" src="https://github.com/user-attachments/assets/2df645bc-765b-4439-bfb6-17a0e354193d" />
+<img width="613" height="83" alt="image" src="https://github.com/user-attachments/assets/4c86a4cc-1992-44de-9e8b-b5841dbaafce" />
+
 # 🎵 Discord Music Bot
 
 A modern **Discord Music Bot** featuring an interactive **Components V2 UI**, music queue system, audio effects, and a clean **Now Playing Interface**.
