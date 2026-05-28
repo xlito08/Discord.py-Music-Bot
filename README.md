@@ -82,7 +82,7 @@ No permission.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone [https://github.com/USERNAME/REPOSITORY.git](https://github.com/xlito08/Discord.py-Music-Bot)
 cd REPOSITORY
 ```
 
