@@ -16,16 +16,13 @@ with open("config.json", "r", encoding="utf-8") as f:
 
 TOKEN         = config["token"]
 ALLOWED_USERS = config["allowed_users"]
-DADDY_USER_ID = config["ahh_daddy_user_id"]
-DADDY_ROLE_ID = config["daddy_role_id"]
-CMD_PREFIX    = config["command_prefix"]
 
 intents = discord.Intents.default()
 intents.message_content = True
 intents.guilds = True
 intents.voice_states = True
 
-bot = commands.Bot(command_prefix=CMD_PREFIX, intents=intents)
+bot = commands.Bot(intents=intents)
 BOT_START_TIME = 0.0
 
 class Emojis:
