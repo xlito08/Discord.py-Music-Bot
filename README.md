@@ -227,6 +227,13 @@ project/
 * Livestreams may behave differently
 * FFmpeg must be installed
 
+If you want to use all the emojis in the code, you have to invite the Bot to these Servers:
+  * https://discord.gg/gxNhQ7p7cE
+  * https://discord.gg/VmutT5Bunx
+  * https://discord.gg/vwQ2uHWfsY
+    
+  * Invite Command: ax invite <bot-id>
+
 ---
 
 # ⭐ Support
